@@ -1,5 +1,5 @@
 html{
-    background: blue;
+    background: rgb(227, 238, 255);
 }
 
 #Summary{
@@ -9,6 +9,6 @@ html{
     text-align: center;
 }
 #Education{
-    border:10px 40px 10px 40px;
+    border:30px solid red;
     background-color: #0CABA8;
 }
