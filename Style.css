@@ -1,35 +1,24 @@
 html{
     background: rgb(227, 238, 255);
 }
-
-#firstm{
-    margin: 200px
+#first{
+    border: 10px solid black;
+    padding: 20px;
+    background-color: cadetblue;
+    height: 200px;
+    width: 200px;
 }
-#firstp{
-    border: 20px solid black;
-    background-color: #0CABA8;
+#second{
+    border: 10px solid black;
+    padding: 20px;
+    background-color: gold;
+    height: 200px;
+    width: 200px;
 }
-#secondm{
-    color:rgb(255, 255, 255);
-    font-weight: 900;
-    font-family: serif;
-    text-align: center;
-}
-#secondp{
-    color:rgb(255, 255, 255);
-    font-weight: 900;
-    font-family: serif;
-    text-align: center;
-}
-#thirdm{
-    color:rgb(255, 255, 255);
-    font-weight: 900;
-    font-family: serif;
-    text-align: center;
-}
-#thirdp{
-    color:rgb(255, 255, 255);
-    font-weight: 900;
-    font-family: serif;
-    text-align: center;
+#third{
+    border: 10px solid black;
+    padding: 20px;
+    background-color: indianred;
+    height: 200px;
+    width: 200px;
 }
