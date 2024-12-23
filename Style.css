@@ -3,11 +3,7 @@ html{
 }
 
 #firstm{
-    color:rgb(255, 255, 255);
-    font-weight: 900;
-    font-family: serif;
-    text-align: center;
-    border: 200px 200px
+    border: 80% 80%
 }
 #firstp{
     border: 20px solid black;
