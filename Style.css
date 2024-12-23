@@ -9,7 +9,8 @@ html{
     width: 200px;
 }
 #second{
-    border: 20px 10px solid black;
+    border:solid black;
+    border-width: 20px 10px;
     margin-left: 260px;
     padding: 20px;
     background-color: gold;
