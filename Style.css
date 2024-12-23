@@ -9,7 +9,7 @@ html{
     width: 200px;
 }
 #second{
-    border:solid black;
+    border: solid black;
     border-width: 20px 10px;
     margin-left: 260px;
     padding: 20px;
@@ -23,4 +23,5 @@ html{
     background-color: indianred;
     height: 200px;
     width: 200px;
+    margin-left: 40px;
 }
