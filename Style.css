@@ -2,13 +2,37 @@ html{
     background: rgb(227, 238, 255);
 }
 
-#Summary{
+#firstm{
     color:rgb(255, 255, 255);
     font-weight: 900;
     font-family: serif;
     text-align: center;
 }
-#Education{
-    border:30px solid red;
+#firstp{
+    border:30px solid black;
     background-color: #0CABA8;
+}
+#secondm{
+    color:rgb(255, 255, 255);
+    font-weight: 900;
+    font-family: serif;
+    text-align: center;
+}
+#secondp{
+    color:rgb(255, 255, 255);
+    font-weight: 900;
+    font-family: serif;
+    text-align: center;
+}
+#thirdm{
+    color:rgb(255, 255, 255);
+    font-weight: 900;
+    font-family: serif;
+    text-align: center;
+}
+#thirdp{
+    color:rgb(255, 255, 255);
+    font-weight: 900;
+    font-family: serif;
+    text-align: center;
 }
