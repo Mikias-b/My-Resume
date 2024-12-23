@@ -1,12 +1,14 @@
 html{
     background: rgb(227, 238, 255);
 }
+div{
+    height: 200px;
+    width: 200px;
+}
 #first{
     border: 10px solid black;
     padding: 20px;
     background-color: cadetblue;
-    height: 200px;
-    width: 200px;
 }
 #second{
     border: solid black;
@@ -14,14 +16,10 @@ html{
     margin-left: 260px;
     padding: 20px;
     background-color: gold;
-    height: 200px;
-    width: 200px;
 }
 #third{
     border:10px solid black;
     padding: 20px;
     background-color: indianred;
-    height: 200px;
-    width: 200px;
     margin-left: 40px;
 }
