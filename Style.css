@@ -7,9 +7,10 @@ html{
     font-weight: 900;
     font-family: serif;
     text-align: center;
+    boder-width: 200px 200px
 }
 #firstp{
-    border:30px solid black;
+    border: 20px solid black;
     background-color: #0CABA8;
 }
 #secondm{
