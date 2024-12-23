@@ -10,7 +10,7 @@ html{
 }
 #second{
     border: 20px 10px solid black;
-    margin: 260px;
+    margin-left: 260px;
     padding: 20px;
     background-color: gold;
     height: 200px;
