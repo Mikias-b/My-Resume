@@ -7,7 +7,7 @@ html{
     font-weight: 900;
     font-family: serif;
     text-align: center;
-    border-width: 200px 200px
+    border: 200px 200px
 }
 #firstp{
     border: 20px solid black;
