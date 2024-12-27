@@ -1,5 +1,6 @@
 html{
     background: rgb(227, 238, 255);
+    draggable="true"
 }
 div{
     height: 200px;
@@ -26,3 +27,4 @@ p{
     background-color: indianred;
     margin-left: 40px;
 }
+
