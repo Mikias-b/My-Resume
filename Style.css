@@ -14,10 +14,12 @@ div.centerflag{
     width: 900px;
     margin-top: 150px;
     margin-bottom: 150px;
+    background-color: rgb(30, 30, 124);
 }
 .circle{
     height: 200px;
     width: 200px;
     border-radius: 30px;
+    background-color: white;
 }
 
