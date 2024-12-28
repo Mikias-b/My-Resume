@@ -19,6 +19,7 @@
     background-color: rgb(30, 30, 124);
 }
 .flag>div>div{
+    position: relative;
     height: 200px;
     width: 200px;
     border-radius: 100px;
@@ -30,5 +31,6 @@
     color: black;
     font-size: xx-large;
     text-align: center;
+    margin-top: 100px;
 }
 
