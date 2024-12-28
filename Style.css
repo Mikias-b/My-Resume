@@ -11,7 +11,7 @@
     font-size: x-large;
 }
 .flag>div{
-    position: relative;
+    position: absolute;
     height: 300px;
     width: 900px;
     margin-top: 150px;
