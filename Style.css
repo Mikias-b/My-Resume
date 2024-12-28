@@ -10,7 +10,8 @@ p{
     width: 900px;
 }
 .flag p{
-    color: white; 
+    color: white;
+    position: absolute; 
 }
 .flag>div{
     position: absolute;
