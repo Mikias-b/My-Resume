@@ -1,5 +1,5 @@
 .flag{
-    position: absolute;
+    position: relative;
     border:10px black;
     background-color: red;
     height: 600px;
@@ -11,6 +11,7 @@
     font-size: xx-large;
 }
 .flag>div{
+    position: absolute;
     height: 300px;
     width: 900px;
     margin-top: 150px;
