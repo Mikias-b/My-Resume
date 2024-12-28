@@ -7,7 +7,7 @@
 .flag p{
     text-align: center;
     color: white;  
-    font-size: large;
+    font-size: x-large;
 }
 .flag>div{
     height: 300px;
@@ -21,5 +21,6 @@
     width: 200px;
     border-radius: 100px;
     background-color: white;
+    margin-left: 350px;
 }
 
