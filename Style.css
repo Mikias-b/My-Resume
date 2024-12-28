@@ -1,13 +1,16 @@
+p{
+    font-size: 5rem;
+    margin: 0;
+}
+
 .flag{
-    position: absolute;
+    position: relative;
     background-color: red;
     height: 600px;
     width: 900px;
 }
 .flag p{
-    text-align: center;
-    color: white;  
-    font-size: xx-large;
+    color: white; 
 }
 .flag>div{
     position: absolute;
@@ -28,8 +31,5 @@
 }
 .flag>div>div>p{
     color: black;
-    font-size: xx-large;
-    text-align: center;
-    margin-top: 100px;
 }
 
