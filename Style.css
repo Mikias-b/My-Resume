@@ -1,13 +1,38 @@
-.flag{
-    color: white;
-    height: 600px;
-    width: 900px;
-    position: relative;
+p{
+    font-size: 5rem;
+    margin: 0;
+    width: 100%;
+    text-align: center;
 }
 
-.greentop{
-    color: green;
+.flag{
+    position: relative;
+    background-color: red;
+    height: 600px;
     width: 900px;
+}
+.flag p{
+    color: white;
+    position: absolute; 
+}
+.flag>div{
+    position: absolute;
+    height: 300px;
+    width: 900px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background-color: rgb(30, 30, 124);
+}
+.flag>div>div{
+    position: absolute;
     height: 200px;
-    position: absolute;;
+    width: 200px;
+    border-radius: 100px;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.flag>div>div>p{
+    color: black;
+    text-align: center;
 }
